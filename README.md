@@ -1,4 +1,4 @@
-# smart-student-notes-and-quiz-generator
+
 # Smart Student Notes and quizz Generator
 
 ## Description
