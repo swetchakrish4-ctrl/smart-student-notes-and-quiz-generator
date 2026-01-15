@@ -17,4 +17,4 @@ AI web application that generates summarized notes and quizzes from lecture PDFs
 - SQLite
 
 ## Status
-Partial working implementation (core pipeline functional)
+Partial working implementation
